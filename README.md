@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I'm Max, a freelance software engineer based in Bordeaux, France
 
 I’ve been working professionaly for 10+ years as a software engineer. During that time, I co-founded 2 startups as CTO. This allowed me to gain experience on a wide variety of technical topics.
 
